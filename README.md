@@ -65,9 +65,3 @@ Developed a Bash script in Kali Linux (VMware) that automates system monitoring 
 
 
 
-
-
-
-
-
-
