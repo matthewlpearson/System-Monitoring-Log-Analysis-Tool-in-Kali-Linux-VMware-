@@ -7,3 +7,10 @@ Developed a Bash script in Kali Linux (VMware) that automates system monitoring 
 
 ### Skills Learned
 [Bullet Points]
+
+- Bash Scripting
+- Log Analysis
+- System Monitoring
+- Process Management
+- Virtualization (VMware)
+- Linux Administration
