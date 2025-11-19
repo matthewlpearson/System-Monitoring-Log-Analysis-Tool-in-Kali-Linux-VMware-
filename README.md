@@ -14,3 +14,9 @@ Developed a Bash script in Kali Linux (VMware) that automates system monitoring 
 - Process Management
 - Virtualization (VMware)
 - Linux Administration
+
+
+
+
+### Tools Used
+[Bullet Points]
