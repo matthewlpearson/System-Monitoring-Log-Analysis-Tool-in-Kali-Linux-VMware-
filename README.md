@@ -21,4 +21,4 @@ Developed a Bash script in Kali Linux (VMware) that automates system monitoring 
 ### Tools Used
 [Bullet Points]
 
--
+- Kali Linux VMware Virtual Machine Setup
