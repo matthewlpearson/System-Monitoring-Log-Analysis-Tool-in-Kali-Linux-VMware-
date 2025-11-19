@@ -33,4 +33,4 @@ Developed a Bash script in Kali Linux (VMware) that automates system monitoring 
 
 
 ## Steps
-**I set up a Kali Linux virtual machine in VMware to create a safe, controlled environment for my system monitoring project. This allowed me to practice Linux administration and scripting without affecting my host system. I updated packages, installed monitoring tools, and used the VM to write and run my Bash script, showing I can deploy and manage virtualized operating systems**
+**I set up a Kali Linux virtual machine in VMware to create a safe, controlled environment for my system monitoring project. This allowed me to practice Linux administration and scripting without affecting my host system. I updated packages, installed monitoring tools, and used the VM to write and run my Bash script, showing I can deploy and manage virtualized operating systems**.!
