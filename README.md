@@ -37,14 +37,11 @@ Developed a Bash script in Kali Linux (VMware) that automates system monitoring 
 
 
 
-
 **Here I’m inside the nano editor in Kali Linux, writing out my Bash script. This shows the actual code I created to automate system monitoring.**                                                                                                                                                             ![2025-11-11 09_52_55-kali-linux-2025.3-vmware-amd64 - VMware Workstation.png](https://github.com/matthewlpearson/System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-/blob/94ca67fbf6c180416ee3ae65504fda17272c47d5/2025-11-11%2009_52_55-kali-linux-2025.3-vmware-amd64%20-%20VMware%20Workstation.png)
 
 
 
-
 **This is the moment I executed my script in the terminal. You can see the System Monitoring Started…message, which confirms the script is live and logging data every 60 seconds.**                                                                                                                           ![2025-11-11 09_55_04-kali-linux-2025.3-vmware-amd64 - VMware Workstation.png](https://github.com/matthewlpearson/System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-/blob/c485d040c54861d1a45aabd62f49037b8e86ceb2/2025-11-11%2009_55_04-kali-linux-2025.3-vmware-amd64%20-%20VMware%20Workstation.png)
-
 
 
 
