@@ -25,3 +25,11 @@ Developed a Bash script in Kali Linux (VMware) that automates system monitoring 
 - VMware (Virtual Machine) – Creates a virtualized system, allowing you to run Kali Linux safely without affecting your host machine.
 - Nano Editor – A simple command-line text editor for creating and editing scripts and configuration files.
 - Linux Terminal – Provides a command-line interface to execute commands, run scripts, and manage the system.
+
+
+
+
+
+
+
+## Steps
