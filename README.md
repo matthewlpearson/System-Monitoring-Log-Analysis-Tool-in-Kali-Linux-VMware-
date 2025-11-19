@@ -21,4 +21,7 @@ Developed a Bash script in Kali Linux (VMware) that automates system monitoring 
 ### Tools Used
 [Bullet Points]
 
-- Kali Linux VMware Virtual Machine Setup
+- Kali Linux - A Linux distribution used for learning, scripting, and system administration. Provides a secure environment for testing and running scripts.
+- VMware (Virtual Machine) – Creates a virtualized system, allowing you to run Kali Linux safely without affecting your host machine.
+- Nano Editor – A simple command-line text editor for creating and editing scripts and configuration files.
+- Linux Terminal – Provides a command-line interface to execute commands, run scripts, and manage the system.
