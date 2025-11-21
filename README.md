@@ -45,7 +45,7 @@ Developed a Bash script in Kali Linux (VMware) that automates system monitoring 
 
 ---
 
-**Here’s a snippet from the system_log.txt file my script generated. Each entry includes a timestamp along with CPU, memory, and disk usage.**![2025-11-21 11_13_38-kali-linux-2025.3-vmware-amd64 - VMware Workstation.png](https://github.com/matthewlpearson/System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-/blob/72fb19153ef13fa21bbedf1ab8ff080ccb571137/2025-11-11%2010_32_14-kali-linux-2025.3-vmware-amd64%20-%20VMware%20Workstation.png)
+**Here’s a snippet from the system_log.txt file my script generated. Each entry includes a timestamp along with CPU, memory, and disk usage.**![2025-11-21 11_13_38-kali-linux-2025.3-vmware-amd64 - VMware Workstation.png](https://github.com/matthewlpearson/System-Monitoring-Log-Analysis-Tool-in-Kali-Linux-VMware-/blob/b09c98e66e45845749d93c61bce0c08e7805ba41/2025-11-21%2011_13_38-kali-linux-2025.3-vmware-amd64%20-%20VMware%20Workstation.png)
 
 
 
